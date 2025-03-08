@@ -1,5 +1,5 @@
 # Image Search by Text Prompt using CLIP
-
+![screenshot_1741423960690.png](<https://media-hosting.imagekit.io//e4818e4f2ef64718/screenshot_1741423960690.png?Expires=1836031962&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=QOFHcLkRFC1XsnZ5rPNwbRvdbuFa5rlrHhp5H4Pxpk4jWUigvvJK1VieKRZpN-lXwiqqxgFGgwKvBxZAtm3~B8i3fCoX2K5lHQUhsOXNSPjKw2h0LmEXV57RSC-pcQMmAz43sIxQKIUSDjwx3AV4355ewXC1Ye1bmA7B01Kgp-KmssLIs0MTwJSL7-HC1Uff0XIQHrgY6y9xwK6-6BRoEaUKM9vH-0r93rFcUlFuhL89NPx0gU-pZFjPBT3zH6XsTB6qH~nw3eYcRxlbrWZckvey8m01IfCn0H1yP0OyrkSLFcKawYMqtjvFZqE~EftQdnqVR1bhT9oSAWl84Tk9cQ__>)
 ## Overview
 
 This project uses OpenAI's CLIP (Contrastive Language-Image Pretraining) model to find images in a specified folder that are most similar to a given text prompt. The text prompt is encoded using CLIP's text encoder, and images are compared to the prompt using cosine similarity to rank the images based on their relevance to the prompt.
