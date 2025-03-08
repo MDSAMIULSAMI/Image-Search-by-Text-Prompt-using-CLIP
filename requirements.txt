@@ -1,0 +1,4 @@
+torch
+clip-by-openai
+Pillow
+matplotlib
