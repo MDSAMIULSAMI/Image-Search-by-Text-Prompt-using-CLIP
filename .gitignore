@@ -4,7 +4,7 @@ __pycache__/
 
 # Ignore virtual environment directories
 venv/
-env/
+.env/
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -16,3 +16,5 @@ env/
 # Ignore OS-specific files
 .DS_Store  # macOS
 Thumbs.db  # Windows
+
+.gitignore
