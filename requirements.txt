@@ -1,4 +1,10 @@
+customtkinter>=5.2.0
+torch>=2.0.0
 open_clip_torch
-torch
-Pillow
+Pillow>=10.0.0
 matplotlib
+fpdf
+pandas
+CTkMessagebox
+opencv-python-headless 
+pyperclip
